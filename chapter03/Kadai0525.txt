@@ -1,0 +1,24 @@
+練習3-1
+
+    1. weight == 60
+    2. (age1 + age2) * 2 > 60
+    age % 2 == 1
+    name.equals("湊")
+
+練習3-2
+
+    C,D,E 
+    
+
+練習3-4
+
+    else{
+            System.out.println("映画を見ます");
+            System.out.println("寝ます");
+        }
+    }
+}
+
+
+    
+
